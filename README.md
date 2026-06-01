@@ -1,11 +1,13 @@
 ## Hi!
 
+I am a quantitative developer working in an Investment Strategy team of a large Dutch asset manager.
+
 My main programming language is Python and I am enthusiastic about all computational/quantitative/mathy problems.
 
 This profile mainly contains my personal hobby projects. 
 
-Two of them are from around 2023 ([autodiff with dual numbers](https://github.com/KoenBaak/dual-numbers) and [qpu simulation with numpy](https://github.com/KoenBaak/pyqusim)).
-More are from around the period I started programming. Their code quality is no good and they do not reflect my current style, but they are fun (I think) and hopefully do display some creativity. They are the projects prefixed with "hobby__".
+- Two of them are from around 2023 ([autodiff with dual numbers](https://github.com/KoenBaak/dual-numbers) and [qpu simulation with numpy](https://github.com/KoenBaak/pyqusim)).
+- More are from around the period I started programming. Their code quality is no good and they do not reflect my current style, but they are fun (I think) and hopefully do display some creativity. These are the projects prefixed with "hobby__".
 
 
 
